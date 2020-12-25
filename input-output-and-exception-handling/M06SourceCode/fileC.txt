@@ -1,0 +1,5 @@
+original contents line 1
+original contents line 2
+original contents line 3
+new line to be added
+second new line to be added

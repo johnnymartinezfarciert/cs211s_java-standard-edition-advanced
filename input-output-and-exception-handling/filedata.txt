@@ -1,0 +1,3 @@
+fileA.txt,true,new line to be added
+fileB.txt,false,replacement line should overwrite the file
+fileC.txt,true,new line to be added,second new line to be added
